@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a rising sophomore at Johns Hopkins studying computer science and applied mathematics. I like building stuff and nerding out over cool tech.
+I'm a rising sophomore at Johns Hopkins studying computer science and applied mathematics. I like nerding out over cool tech.
 
 
