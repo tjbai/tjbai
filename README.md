@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a rising sophomore at Johns Hopkins studying computer science and applied mathematics. I like building stuff and nerding out over cool tech.
+
+
