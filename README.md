@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a sophomore at Johns Hopkins studying math and computer science.
+I'm a sophomore at Johns Hopkins studying math and computer science. Writing code gives me bad posture.
 
 
