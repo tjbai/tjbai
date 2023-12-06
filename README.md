@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 I'm a junior at Johns Hopkins studying math and computer science. Writing code gives me bad posture.
 
-[![gh stats](https://github-readme-stats.vercel.app/api?username=tjbai)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=tjbai)](https://github.com/anuraghazra/github-readme-stats)
+
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjbai&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
