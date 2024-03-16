@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![stats](https://github-readme-stats.vercel.app/api?username=tjbai)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 I'm a junior at Johns Hopkins studying math and computer science. Writing code gives me bad posture.
-
-[![stats](https://github-readme-stats.vercel.app/api?username=tjbai)](https://github.com/anuraghazra/github-readme-stats)
-
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjbai&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
+- Prev. Intern @ AWS, Identity and Access Management 🔒
+- Current Research Assistant @ JHU CLSP, working on discrete diffusion models
+- Incoming Intern @ Apple, Search Ads Platform 🔍
