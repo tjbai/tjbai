@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 -->
 
 I'm a junior at Johns Hopkins studying math and computer science. Writing code gives me bad posture.
-- Previous Intern @ AWS, Identity and Access Management 🔒
-- Current Research Assistant @ JHU CLSP, working on discrete diffusion models
-- Incoming Intern @ Apple, Ad Platforms 📈
