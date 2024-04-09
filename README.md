@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![stats](https://github-readme-stats.vercel.app/api?username=tjbai)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-I'm a junior at Johns Hopkins studying math and computer science. Writing code gives me bad posture.
+Writing code gives me bad posture.
